@@ -1,10 +1,10 @@
 {
-    "url": "http://13.233.88.197/test.yaml",
+    "url": "https://raw.githubusercontent.com/DexterLex98/Payloadhub/main/swagger/test.yaml",
     "urls": [{
-        "url": "http://13.233.88.197/test.yaml",
+        "url": "https://raw.githubusercontent.com/DexterLex98/Payloadhub/main/swagger/test.yaml",
         "name": "Foo"
     },{
-        "url": "http://13.233.88.197/test2.yaml",
+        "url": "https://raw.githubusercontent.com/DexterLex98/Payloadhub/main/swagger/test2.yaml",
         "name": "Foo2"
     }]
 }
