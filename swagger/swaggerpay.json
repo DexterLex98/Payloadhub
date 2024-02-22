@@ -1,0 +1,10 @@
+{
+    "url": "http://13.233.88.197/test.yaml",
+    "urls": [{
+        "url": "http://13.233.88.197/test.yaml",
+        "name": "Foo"
+    },{
+        "url": "http://13.233.88.197/test2.yaml",
+        "name": "Foo2"
+    }]
+}
