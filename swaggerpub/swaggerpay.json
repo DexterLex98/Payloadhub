@@ -1,0 +1,10 @@
+{
+    "url": "https://raw.githubusercontent.com/DexterLex98/Payloadhub/main/swaggerpub/test.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/DexterLex98/Payloadhub/main/swaggerpub/test.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://raw.githubusercontent.com/DexterLex98/Payloadhub/main/swaggerpub/test2.yaml",
+        "name": "Foo2"
+    }]
+}
